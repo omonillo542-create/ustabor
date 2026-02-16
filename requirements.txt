@@ -1,0 +1,5 @@
+Flask
+SQLAlchemy
+stripe
+requests
+pytest
